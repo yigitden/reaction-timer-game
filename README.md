@@ -1,24 +1,12 @@
-# mytimer
+# Reaction Timer Game
+You will see green frame which is include 'Click Me!' when You press 'Play' button.
+This app calculates that how much faster you are to click frame.
 
-## Project setup
+## Project setup and run 
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo
+ [Demo](https://reactiongameyigitden.netlify.app/).
